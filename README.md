@@ -22,7 +22,8 @@ Comparer les performances de deux actions (ex: Apple vs Microsoft) sur les 3 der
 
 ## 📊 Résultats
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/27f5b591-a287-4cc8-9f10-3804ac1429ec)
+
 
 Performance entre 2023-07-01 et 2023-10-01 :
 - Apple : -10.92%
